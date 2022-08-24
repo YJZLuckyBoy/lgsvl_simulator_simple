@@ -1,0 +1,5 @@
+<?xml version="1.0"?>
+<launch>
+    <node pkg="lgsvl_simulator_bridge" type="rqt_lgsvl_simulator_configurator" name="rqt_lgsvl_simulator_configurator_node">
+    </node>
+</launch>
