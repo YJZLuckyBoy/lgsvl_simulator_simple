@@ -3,7 +3,7 @@
 
 ```
 cd ~/catkin_ws/src
-git clone https://github.com/TixiaoShan/LVI-SAM.git
+git clone https://github.com/YJZLuckyBoy/lgsvl_simulator_simple.git
 cd ..
 catkin_make -j4
 ```
