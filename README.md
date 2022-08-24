@@ -2,6 +2,7 @@
 1. You can use the following commands to download and compile the package:
 
 ```
+mkdir -p ~/catkin_ws/src
 cd ~/catkin_ws/src
 git clone https://github.com/YJZLuckyBoy/lgsvl_simulator_simple.git
 cd ..
