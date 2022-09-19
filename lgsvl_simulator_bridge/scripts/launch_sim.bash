@@ -1,4 +1,6 @@
-#!/bin/bash   
+#!/bin/bash
+LGSVL_SIM_DIR_PATH_MODIFIED=$(rosparam get /lgsvl_simulator_dir)
+
 # cd $LGSVL_SIM_DIR_PATH
-cd /home/ubuntu/Libraries/LGSVL/svlsimulator-linux64-2021.3
+cd $LGSVL_SIM_DIR_PATH_MODIFIED
 ./simulator
